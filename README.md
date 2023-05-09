@@ -5,11 +5,11 @@
 
 <br/>
 
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-souza&show_icons=true&theme=)
+![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielVictor0&show_icons=true&theme=)
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-souza&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielVictor0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias utilizadas:
 
