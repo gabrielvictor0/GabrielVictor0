@@ -1,7 +1,7 @@
 ## Bem vindo! Meu nome é Gabriel Victor✌️
 <br/>
 
-### Cursando Técnico em Desenvolvimento de sistemas no Senai de informática "Paulo Skaf"!💻
+### 1/4 Desenvolvimento de sistemas no Senai de informática "Paulo Skaf"!💻
 
 <br/>
 
