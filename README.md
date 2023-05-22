@@ -1,4 +1,4 @@
-## Bem vindo! Meu nome é Gabriel Victor✌️
+## Bem vindo!
 <br/>
 
 ### 1/4 Desenvolvimento de sistemas no Senai de informática "Paulo Skaf"!💻
