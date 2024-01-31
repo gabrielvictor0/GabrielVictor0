@@ -13,5 +13,3 @@
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 </div>
 
-![Snake animation](https://github.com/gabrielvictor0/gabrielvictor0/blob/output/github-contribution-grid-snake.svg)
-
