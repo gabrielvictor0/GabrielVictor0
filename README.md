@@ -16,7 +16,7 @@ Sou estudante de Técnico em Desenvolvimento de Sistemas, com conhecimentos full
 
 ## Ferramentas utilizadas 🛠️
 
-<div style="display: flex">
+<div style="display: flex; flex-direction: row;">
 
 <div style="display: flex"> 
 
