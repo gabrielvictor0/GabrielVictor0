@@ -11,6 +11,8 @@ Sou estudante de Técnico em Desenvolvimento de Sistemas, com conhecimentos full
 <img height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvictor0&layout=compact&theme=radical >
 </div>
 
+<br>
+
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-souza-almeida/)
 
 
