@@ -3,7 +3,7 @@
 
 
 <p style="text-align:justify"> 
-Sou estudante de Técnico em Desenvolvimento de Sistemas, com conhecimentos fullstack para aplicações web e mobile. Recentemente, iniciei a graduação em Ciência de Dados, focando em Python para análise de dados e machine learning. Combino experiência de projetos práticos e formação acadêmica, buscando sempre soluções inovadoras e eficientes no desenvolvimento de software e análise de dados.
+Sou Técnico em Desenvolvimento de Sistemas, com conhecimentos fullstack para aplicações web e mobile. Recentemente, iniciei a graduação em Ciência de Dados, focando em Python para análise de dados e machine learning. Combino experiência de projetos práticos e formação acadêmica, buscando sempre soluções inovadoras e eficientes no desenvolvimento de software e análise de dados.
 </p>
 
 <br>
