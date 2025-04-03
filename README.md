@@ -3,7 +3,7 @@
 
 
 <p style="text-align:justify"> 
-Sou Técnico em Desenvolvimento de Sistemas, com conhecimentos fullstack para aplicações web e mobile. Recentemente, iniciei a graduação em Ciência de Dados, focando em Python para análise de dados e machine learning. Combino experiência de projetos práticos e formação acadêmica, buscando sempre soluções inovadoras e eficientes no desenvolvimento de software e análise de dados.
+Desenvolvedor backend com experiência no desenvolvimento de APIs, otimização de banco de dados e monitoramento de dados em tempo real. Minha principal especialidade é o ecossistema .NET, trabalhando com C#, ASP.NET, Entity Framework e SQL Server. Atualmente, também desenvolvo APIs utilizando Java, Spring Boot e SQL Server. Além disso, tenho conhecimentos em Docker, AWS e ERP, adquiridos em cursos e projetos acadêmicos. Busco aprimorar minhas habilidades em arquitetura de software, escalabilidade e computação em nuvem, contribuindo para soluções eficientes e bem estruturadas.
 </p>
 
 <br>
